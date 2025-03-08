@@ -1,7 +1,6 @@
 module.exports = {
   meta: {
     title: "PhoenixStarDesigns",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     lang: "en",
     siteUrl: "https://example.com/",
   },
