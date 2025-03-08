@@ -1,0 +1,41 @@
+---
+title: "Work"
+description: A collection of blog posts, articles and portfolio pieces from my work in Design
+layout: layouts/base.njk
+pagination:
+  data: collections.post
+  size: 6
+  alias: posts
+  reverse: true
+eleventyNavigation:
+  key: Work
+  weight: 4
+---
+
+<div class="container">
+  <h2 class="section-title">
+  Blog posts
+    {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}{% endif %}
+  </h2>
+  {% include "components/postslist.njk" %}
+  <div class="pagination">
+      {% if pagination.previous %}
+        <a href="{{ pagination.href.previous | url }}" class="pagination__prev">&larr; Prev Page</a>
+      {% endif %}
+      {% if pagination.next %}
+        <a href="{{ pagination.href.next | url }}" class="pagination__next">Next Page &rarr;</a>
+      {% endif %}
+  </div>
+</div>
+
+<style>
+
+.section-title {
+  font-size: 2.027rem;
+}
+@media screen and (min-width: 640px) {
+  h1 {
+    font-size: 2.986rem;
+  }
+}
+<style>
