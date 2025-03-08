@@ -32,6 +32,24 @@ eleventyNavigation:
     </p>
   </div>
 
+  <section class="box skills">
+	<div class="stack gap-2 lg:gap-4">
+		<img src= "/static/img/users.svg" class="icon" alt="decorative image of 2 users overlapping">
+		<h2 class="header">Design for everyone</h2>
+		<p>I ensure that all my work in compliant with accessibility regulations and driven by user needs.</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<img src= "/static/img/terminal-window.svg" class="icon" alt="decorative image of terminal window icon">
+		<h2 class="header">Iterative designer</h2>
+		<p>I use a variety of mediums to design, from paper sketchs to fully coded prototypes. </p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<img src= "/static/img/arrows-out.svg" class="icon" alt="decorative image of 2 4 arrows pointing outwards from the centre">
+		<h2 class="header">Collaborative and leadership</h2>
+		<p>I work with others to get the best out them, whilst ensuring that providing leadership and mentor skills throughout the journey.</p>
+	</div>
+</section>
+
   <h2 class="section-title">
     Latest Posts
     {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}{% endif %}
@@ -46,3 +64,41 @@ eleventyNavigation:
       {% endif %}
   </div>
 </div>
+
+<style>
+	.box {
+		border: 1px;
+    padding-bottom: 10px;
+	}
+
+	.skills {
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	@media (min-width: 50em) {
+		.box {
+			padding: 2.5rem;
+		}
+
+		.skills {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 5rem;
+		}
+	}
+
+.icon {
+  height: 35%;
+  width: 35%;
+}
+
+.section-title {
+  padding-top: 1.0rem;
+}
+
+.hero__description {
+  font-size: 24px
+}
+</style>
