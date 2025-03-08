@@ -9,7 +9,7 @@ module.exports = {
     path: "/atom.xml",
     id: "https://phoenixstardesigns.com",
     authorName: "Ciandelle Hughes",
-    authorEmail: "Ciandelle@phoenixstardesigns.com"
+    authorEmail: "Hello@phoenixstardesigns.com"
   },
   hero: { // used in hero section of main page ie. index.html.njk
     title: "Hi, my name is Ciandelle Hughes",
