@@ -1,7 +1,7 @@
 ---
 title: How we prioritise additions to the GOV.UK Design System
 date: 2022-09-07
-description: What I did to work on the prioritisation process for the GOV.UK Design System
+description: One of the priorities of the GOV.UK Design System team is to create and iterate components, styles and patterns
 tags:
   - prioritisation
   - design system
