@@ -1,7 +1,7 @@
 ---
 title: Imposter syndrome in government
 date: 2023-10-11
-description: A write up of a session I delivered at Design System Day 2023 about imposter syndrome and its effects
+description: Imposter syndrome is the name given to the debilitating feelings of self-doubt that many people experience.
 tags:
   - imposter syndrome
 ---
