@@ -1,7 +1,7 @@
 ---
 title: Exit this page fast with the Design System’s new component
 date: 2023-08-14
-description: The story behind the work done to deliver the Exit this Page component and Pattern
+description: The story behind the work done by the GOV.UK Design System team to deliver the Exit this Page component and pattern
 tags:
   - trauma informed design
 ---
