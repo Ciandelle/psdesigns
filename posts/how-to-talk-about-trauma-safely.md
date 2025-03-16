@@ -1,7 +1,7 @@
 ---
 title: How to talk about trauma safely
 date: 2024-10-01
-description: A write up of a session I delivered at Internation Design In Government Helsinki on the topic on trauma informed design
+description: A write up of a session I delivered at International Design In Government Helsinki on the topic on trauma informed design
 tags:
   - trauma informed design
   - international design in government
