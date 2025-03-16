@@ -136,3 +136,25 @@ The only way to get information out there about the amazing work being done acro
 ## References 
 
 1. Trauma and violence - what is trauma and its effects? (2024) SAMHSA. Available at: https://www.samhsa.gov/mental-health/trauma-violence (Accessed: 15 February 2025).
+
+<style>
+  .trigger-warning {
+      padding: 20px;
+      margin-top: 10px;
+      margin-bottom: 50px;
+      border: solid 2px #3775D2;
+      width: 100%;
+      display: flex;
+  }
+
+  .large {
+    font-size: 30px;
+    padding-left: 20px;
+  }
+
+  .icon {
+  height: 100%;
+  width: 100%;
+  padding-right: 30px;
+}
+</style>
