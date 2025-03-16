@@ -1,7 +1,7 @@
 ---
 title: Design systems - what are they and is your institution ready for one?
 date: 2023-03-08
-description: A list of questions and answers I prepared for the UCISA panel about Design Systems 
+description: Design Systems are growing in use, enabling user-centred design in order to create higher quality, more coherent digital experiences. 
 tags:
   - design systems
   - accessibility
