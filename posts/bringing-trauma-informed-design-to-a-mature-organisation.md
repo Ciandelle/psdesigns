@@ -1,7 +1,7 @@
 ---
 title: Bringing trauma informed design to a mature organisation
 date: 2025-03-16
-description: A blog post of the session I will be hosting at Services Week 2025 talking about trauma informed design 
+description: Traditionally design has usually been a fast paced process with a mentality of ‘move fast and break things’. But what happens when you do that with a traumatised population?
 tags:
   - trauma informed design
   - accessibility
