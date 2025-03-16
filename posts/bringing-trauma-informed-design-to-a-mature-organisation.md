@@ -1,7 +1,7 @@
 ---
 title: Bringing trauma informed design to a mature organisation
 date: 2025-03-16
-description: Traditionally design has usually been a fast paced process with a mentality of ‘move fast and break things’. But what happens when you do that with a traumatised population?
+description: Acknowledging that trauma exists has been the first step in understanding how it has an impact on design
 tags:
   - trauma informed design
   - accessibility
