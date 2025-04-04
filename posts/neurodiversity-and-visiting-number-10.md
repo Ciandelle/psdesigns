@@ -8,9 +8,9 @@ tags:
 
 On Wednesday 26 March  I had the pleasure of being invited to an event hosted at 10 Downing Street. It was a very surreal experience and one I feel very honored to have been a part of. The topic of conversation was neurodiversity and we got to listen to the experiences of a fantastic panel made up of:
 
-Matt Boyd, founder of [Exceptional Indivduals](https://exceptionalindividuals.com/)
-[Helen Jeffies](https://www.linkedin.com/in/helen-jeffries-b0969413/) - Deputy Director at Department of Health and Social Care
-Rt Hon Peter Kyle MP - Secretary of State for Science, Innovation and Technology
+- Matt Boyd, founder of [Exceptional Indivduals](https://exceptionalindividuals.com/)
+- [Helen Jeffies](https://www.linkedin.com/in/helen-jeffries-b0969413/) - Deputy Director at Department of Health and Social Care
+- Rt Hon Peter Kyle MP - Secretary of State for Science, Innovation and Technology
 
 My organisation has an amazing neurodiversity network that has been doing some truly inspiring work. Initiatives such as a ‘manual of me’, detailing the ways a person works best, their likes and dislikes and a small bit of personal information. Another is allowing interviewees to request questions in advance, making the interview process less intimidating for everyone, not just those who are neurodiverse. 
 
