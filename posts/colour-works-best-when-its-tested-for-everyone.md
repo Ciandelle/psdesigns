@@ -51,6 +51,7 @@ I used using the Brettel 1997[6] method for testing all three types of simulated
   
 ![An image of the table of testing](/static/img/test-results.png?raw=true)
 
+This information has been incredibly useful in helping the appropriate teams write the guidance around dot and wordmark usage. Without the insights we gained frthe enhanced colour palette testing and we may have inappropriately stated that this is usable.
 
 ## References
 1. Percentages sourced from [whocanuse.com](https://www.whocanuse.com/)
@@ -69,6 +70,3 @@ I used using the Brettel 1997[6] method for testing all three types of simulated
 7. Viénot, F., Brettel, H. and Mollon, J.D. (1999) ‘Digital Video colourmaps for checking the legibility of displays by dichromats’, Color Research & Application.
 
 8. Machado, G.M., Oliveira, M.M. and Fernandes, L. (2009) ‘A physiologically-based model for simulation of color vision deficiency’, IEEE Transactions on Visualization and Computer Graphics.
-
-
-This information has been incredibly useful in helping the appropriate teams write the guidance around dot and wordmark usage. Without the insights we gained frthe enhanced colour palette testing and we may have inappropriately stated that this is usable.
