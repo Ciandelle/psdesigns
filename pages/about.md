@@ -8,11 +8,18 @@ eleventyNavigation:
 ---
 
 <div class="timeline">
+	<div class="career-container right">
+		<div class="career-content">
+			<h2 class="h2-career">Government Digital Service</h2>
+			<p class="p-career-job">Senior Interaction Designer for <a href="https://www.sign-in.service.gov.uk/">GOV.UK OneLogin</a></p>
+			<p class="p-career">August 2025 to Present</p>
+		</div>
+	</div>
 	<div class="career-container left">
 	  <div class="career-content">
 		<h2 class="h2-career">Government Digital Service</h2>
 		<p class="p-career-job">Interaction Designer for <a href="https://design-system.service.gov.uk/">GOV.UK Design System</a></p>
-		<p class="p-career">March 2022 to present</p>
+		<p class="p-career">March 2022 to July 2025</p>
 	  </div>
 	</div>
 	<div class="career-container right">
