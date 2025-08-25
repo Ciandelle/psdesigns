@@ -48,10 +48,89 @@ We were able to break that down further, into the three main types of CVD, with:
 To understand what someone with CVD sees I needed to use a simulator. It is important to state that simulations are never perfectly accurate. There are variables that we are unable to control that differ in every situation, as well as human perception.  
 
 I used using the Brettel 1997[6] method for testing all three types of simulated CVD and the Viénot 1999[7] and Machado 2009[8] methods for protanopia and deuteranopia. I also tested the image at a severity of 0.5 and 1 respectively. In this instance severity is the extent to which a person has a CVD condition.
-  
-![An image of the table of testing](/static/img/test-results.png?raw=true)
 
-This information has been incredibly useful in helping the appropriate teams write the guidance around dot and wordmark usage. Without the insights we gained frthe enhanced colour palette testing and we may have inappropriately stated that this is usable.
+## Table of test results
+
+### Protanopia/Protanomaly 
+
+Severity of condition: 0.5 
+
+Background hex: #2E6FB7 / Dot: #B6F8DF
+
+Colour contrast ratio:  4.29:1 
+
+| WCAG text and images | Pass or Fail |
+| ----------- | ---------- |
+| Normal text: | Fail AA and AAA |
+| Large text: | Pass AA, Fail AAA |
+| Objects and UI: | Pass AA |
+
+Severity of condition: 1 
+
+Background hex: #3A6EB7 / Dot: #F7F1DF
+
+Colour contrast ratio:  4.54:1 
+
+| WCAG text and images | Pass or Fail |
+| ----------- | ---------- |
+| Normal text: | Pass AA, Fail AAA |
+| Large text: | Pass AA and AAA |
+| Objects and UI: | Pass AA |
+
+### Deuteranopia/Deuteranomaly 
+
+Severity of condition: 0.5 
+
+Background hex: #2A6EB8 / Dot: #9FEEE1
+
+Colour contrast ratio:  3.92:1 
+
+| WCAG text and images | Pass or Fail |
+| ----------- | ---------- |
+| Normal text: | Fail AA and AAA |
+| Large text: | Pass AA, Fail AAA |
+| Objects and UI: | Pass AA |
+
+Severity of condition: 1 
+
+Background hex: #346CB8 / Dot: #D8DBE2
+
+Colour contrast ratio:  3.8:1 
+
+| WCAG text and images | Pass or Fail |
+| ----------- | ---------- |
+| Normal text: | Fail AA and AAA |
+| Large text: | Pass AA, Fail AAA |
+| Objects and UI: | Pass AA |
+
+### Tritanopia/Tritanomaly 
+
+Severity of condition: 0.5 
+
+Background hex: #0074A7 / Dot: #3DF9FE
+
+Colour contrast ratio:  3.98:1 
+
+| WCAG text and images | Pass or Fail |
+| ----------- | ---------- |
+| Normal text: | Fail AA and AAA |
+| Large text: | Pass AA, Fail AAA |
+| Objects and UI: | Pass AA |
+
+Severity of condition: 1
+
+Background hex: #007994 / Dot: #57F4FE
+
+Colour contrast ratio:  3.88:1 
+
+| WCAG text and images | Pass or Fail |
+| ----------- | ---------- |
+| Normal text: | Fail AA and AAA |
+| Large text: | Pass AA, Fail AAA |
+| Objects and UI: | Pass AA |
+
+
+This information has been incredibly useful in helping the appropriate teams write the guidance around dot and wordmark usage. Without the insights we gained from the enhanced colour palette testing and we may have inappropriately stated that this is usable.
 
 ## References
 1. Percentages sourced from [whocanuse.com](https://www.whocanuse.com/)
