@@ -7,7 +7,7 @@ tags:
   - accessibility
 ---
 
-As part of work in GDS I pride myself on making sure that we take accessibility and usability seriously. This is something that my colleagues are exceptionally brilliant and ensures happens too, and the work done to refresh [GOV.UK](http://gov.uk) has been no exception to this.
+As part of work in GDS I pride myself on making sure that we take accessibility and usability seriously. This is something that my colleagues are exceptionally brilliant and they ensures they do the hard work to make sure this happens too. The work done to refresh [GOV.UK](http://gov.uk) has been no exception to this.
 
 Although [logos are exempt from the colour contrast](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html) under the [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG22/) 2.2 (WGAC 2.2), we wanted to explore the potential impact that the new cyan colour could have on users.
 
